@@ -1,0 +1,10 @@
+{
+  "users": [
+    {"id":"U1","name":"Firas","email":"Firas@gmail.com","password":"Firas1234"}
+  ],
+  "expenses": [
+    {"id":"E1","userId":"U1","category":"TRANSPORT","amount":5.0,"note":"Toktok","date":"2026-05-05"}
+  ],
+  "budgets": [
+  ]
+}
