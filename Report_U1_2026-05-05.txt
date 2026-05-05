@@ -1,0 +1,22 @@
+==================================================
+  BUDGET TRACKER REPORT
+  Generated : 2026-05-05
+  User      : Firas2 (U1)
+==================================================
+
+BUDGET SUMMARY — 2026-05
+  Expense limit : 1000.00
+  Total spent   : 1500.00
+  Remaining     : -500.00
+  *** WARNING: Expense limit exceeded! ***
+
+ALL TRANSACTIONS
+--------------------------------------------------
+  ID     Date         Category            Amount  Note
+  ------------------------------------------------------------
+  E1     2026-10-12   FOOD                400.00  Boba For Rodina
+  E2     2026-05-05   FOOD                500.00  Boba For my nigga
+  E3     2026-05-05   TRANSPORT           500.00  Sizzler
+  E4     2026-05-05   FOOD                500.00  Boba
+
+==================================================
